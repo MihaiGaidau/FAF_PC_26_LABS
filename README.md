@@ -2,3 +2,4 @@
 
 Marius Carchilan
 Trocin David
+Mihai Gaidau
